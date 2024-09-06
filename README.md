@@ -1,4 +1,4 @@
-### Numeros Romanos y su suma en letras
+# Numeros Romanos y su suma en letras
 
 - Este codigo te ayuda a hacer una suma de las letras romanas que contenga la palabra que ingreses en el arreglo.
 
@@ -8,17 +8,17 @@
 -Python 3.x
 
 
-####Verifica que tienes python instalado
+# Verifica que tienes python instalado
 
-$ python -V
+`$ python -V`
 
-####Si no tienes instalado Python
+# Si no tienes instalado Python
 Para instalar Python en *Windows*.
 - Descarga el ejecutable de [Python Descargables](https://www.python.org/downloads/ "Python Descargables")
 - Despues ejecuta el archivo.
 
 -Para instalar python en  *Linux*.
 
-   sudo apt update
+   `sudo apt update`
    
-  sudo apt install python3
+  `sudo apt install python3`
