@@ -1,0 +1,8 @@
+# Archivos de compilación y de caché
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.pyo
+*.pyd
+
